@@ -1,3 +1,7 @@
+"""
+This module has functions associated with analyzing the geometry of a molecule. It does not work properly yet. I use geometry-analysis_NF.py instead.
+"""
+
 import numpy
 import os
 import argparse
